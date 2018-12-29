@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "FingerBasketball",
-"dataUrl": "Web.data.unityweb",
-"wasmCodeUrl": "Web.wasm.code.unityweb",
-"wasmFrameworkUrl": "Web.wasm.framework.unityweb",
+"dataUrl": "FingerBasketball.data.unityweb",
+"wasmCodeUrl": "FingerBasketball.wasm.code.unityweb",
+"wasmFrameworkUrl": "FingerBasketball.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
